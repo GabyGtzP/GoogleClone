@@ -1,2 +1,2 @@
 # Google Clone
-Google clone using HTML, CSS and JS
+Google clone using HTML and CSS
