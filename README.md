@@ -1,2 +1,2 @@
 # Google Clone
-Clonación sencilla de la interfaz de Google usando HTML y CSS.
+Google clone using HTML, CSS and JS
